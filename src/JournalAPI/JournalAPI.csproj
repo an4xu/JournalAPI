@@ -1,0 +1,7 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<ItemGroup>
+		<InternalsVisibleTo Include="JournalAPI.Tests" />
+	</ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+<Project>
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<LangVersion>13.0</LangVersion>
+		<Nullable>enable</Nullable>
+		<WarningsNotAsErrors>Nullable</WarningsNotAsErrors>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+		<SatelliteResourceLanguages>en</SatelliteResourceLanguages>
+		<IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
+	</PropertyGroup>
+</Project>
